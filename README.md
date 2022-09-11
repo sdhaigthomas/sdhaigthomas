@@ -1,4 +1,12 @@
-- 👋 Hi, I’m @sdhaigthomas
+  _    _      _ _        __          __        _     _ _ 
+ | |  | |    | | |       \ \        / /       | |   | | |
+ | |__| | ___| | | ___    \ \  /\  / /__  _ __| | __| | |
+ |  __  |/ _ \ | |/ _ \    \ \/  \/ / _ \| '__| |/ _` | |
+ | |  | |  __/ | | (_) |    \  /\  / (_) | |  | | (_| |_|
+ |_|  |_|\___|_|_|\___/      \/  \/ \___/|_|  |_|\__,_(_)
+                                                        
+
+- 👋 Hi, I’m sdht
 - 👀 I’m interested in flask
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me sdhaigthomas@gmail.com
