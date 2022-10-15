@@ -1,4 +1,4 @@
-<b><h1><p class="font-weight-bold">Sdht</p><h1></b>
+<b><h1 size="+20"><p class="font-weight-bold">Sdht</p></h1></b>
 
 
 <code>𝚜𝚍𝚑𝚝#2224<button class="btn btn-link" onclick="copyDiscord()"></button></code>
