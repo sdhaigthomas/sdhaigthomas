@@ -3,7 +3,8 @@
 
 <p align="center">
    <kbd>
-  <a href="discordapp.com/users/822911551165956107" title="Discord">Discord</a>
+  <a href="discordapp.com/users/822911551165956107" title="Discord"><h1>Discord</a>
+  <br>
   <a href="sdhaigthomas@gmail.com" title="Email">Email</a>
   </kbd>
 </p>
