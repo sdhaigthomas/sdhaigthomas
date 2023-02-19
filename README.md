@@ -1,11 +1,11 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-<b><h1>sdht</h1></b>
+
 
 <p align="center">
-   <kbd>
-  <a href="discordapp.com/users/822911551165956107" title="Discord"><h1>Discord</a>
-  <br>
-  <a href="sdhaigthomas@gmail.com" title="Email">Email</a>
+<b><h1>sdht</h1></b>
+  <kbd>
+  <a href="discordapp.com/users/822911551165956107" title="Discord"><img src="https://img.shields.io/badge/sdht%232224-Discord-blue"/></a>
+  <a href="mailto:sdhaigthomas@gmail.com" title="Email"><img src="https://img.shields.io/badge/sdhaigthomas%40gmail.com-Email-red"/></a>
   </kbd>
 </p>
 
