@@ -4,7 +4,7 @@
 <p align="center">
 <b><h1>sdht</h1></b>
   <kbd>
-  <a href="discordapp.com/users/822911551165956107" title="Discord"><img src="https://img.shields.io/badge/sdht%232224-Discord-blue"/></a>
+  <a href="https://discordapp.com/users/822911551165956107" title="Discord"><img src="https://img.shields.io/badge/sdht%232224-Discord-blue"/></a>
   <a href="mailto:sdhaigthomas@gmail.com" title="Email"><img src="https://img.shields.io/badge/sdhaigthomas%40gmail.com-Email-red"/></a>
   </kbd>
 </p>
